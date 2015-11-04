@@ -1,2 +1,2 @@
-# jave-script-essential
+# java-script-essential
 Code Java script ที่น่าใช้
